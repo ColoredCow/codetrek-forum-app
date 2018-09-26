@@ -12,6 +12,7 @@ Helpful links:
 ## Session 2 – Developing interfaces
 Helpful links:
 
-1. [Download Bootstrap4](http://getbootstrap.com)
-2. [Create a CodePen account](https://codepen.io)
-3. [Download FontAwesome icons for the web](https://fontawesome.com/)
+1. [Download Bootstrap4 compiled CSS and JS](https://getbootstrap.com/docs/4.1/getting-started/download/)
+2. [Download jQuery uncompressed, production 3.3.1](https://jquery.com/download/)
+3. [How to use FontAwesome icons](https://fontawesome.com/how-to-use/on-the-web/setup/getting-started?using=web-fonts-with-css)
+4. [Create a CodePen account](https://codepen.io)
