@@ -14,3 +14,4 @@ Helpful links:
 
 1. [Download Bootstrap4](http://getbootstrap.com)
 2. [Create a CodePen account](https://codepen.io)
+3. [Download FontAwesome icons for the web](https://fontawesome.com/)
