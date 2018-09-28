@@ -1,0 +1,19 @@
+textarea {
+	resize: none;
+}
+
+.c-pointer {
+	cursor: pointer;
+}
+
+.like:hover {
+	color: #28a745;
+	transform: scale(1.1);
+	transition: transform 0.3s;
+}
+
+.dislike:hover {
+	color: #dc3545;
+	transform: scale(1.1);
+	transition: transform 0.3s;
+}
