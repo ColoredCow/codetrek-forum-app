@@ -24,4 +24,6 @@ Helpful links:
 1. [Download Bootstrap4 compiled CSS and JS](https://getbootstrap.com/docs/4.1/getting-started/download/)
 2. [Download jQuery uncompressed, production 3.3.1](https://jquery.com/download/)
 3. [How to use FontAwesome icons](https://fontawesome.com/how-to-use/on-the-web/setup/getting-started?using=web-fonts-with-css)
-4. [Create a CodePen account](https://codepen.io)
+4. [JavaScript onclick events](https://www.w3schools.com/jsref/event_onclick.asp)
+5. [JavaScript innerHTML property](https://www.w3schools.com/jsref/prop_html_innerhtml.asp)
+6. [Create a CodePen account](https://codepen.io)
