@@ -27,3 +27,10 @@ Helpful links:
 4. [JavaScript onclick events](https://www.w3schools.com/jsref/event_onclick.asp)
 5. [JavaScript innerHTML property](https://www.w3schools.com/jsref/prop_html_innerhtml.asp)
 6. [Create a CodePen account](https://codepen.io)
+
+## Session 3 – The complete software
+Helpful links:
+
+1. [Laravel Official Docs](https://laravel.com/docs/5.7)
+2. Complete the Laracasts series: [Laravel from Scratch](https://laracasts.com/series/laravel-from-scratch-2018)
+3. Laravel News: [Creating your first Laravel application](https://laravel-news.com/your-first-laravel-application)
